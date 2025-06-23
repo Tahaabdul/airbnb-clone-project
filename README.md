@@ -24,5 +24,21 @@ The Airbnb Clone Project is a comprehensive, real-world application designed to 
 
 * DevOps Engineer: Automates deployment and integrates development with operations for fast, stable releases.
 
----
 
+## Technology Stack
+
+Django: Builds the backend and API.
+
+Django REST Framework: Helps create and manage the API.
+
+PostgreSQL: Stores the app’s data.
+
+GraphQL: Lets you fetch only the data you need.
+
+Celery: Runs background tasks (e.g., emails, payments).
+
+Redis: Speeds things up with caching and stores sessions.
+
+Docker: Packages the app for easy setup and deployment.
+
+CI/CD Pipelines: Automatically tests and deploys updates.
