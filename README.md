@@ -5,7 +5,7 @@ The Airbnb Clone Project is a comprehensive, real-world application designed to 
 
 
 ---
-** Roles in the Project 
+## Team Roles
 * Business Analyst (BA): Translates business needs into clear technical requirements.
 
 * Product Owner (PO): Defines and owns the product vision to ensure it meets customer needs.
